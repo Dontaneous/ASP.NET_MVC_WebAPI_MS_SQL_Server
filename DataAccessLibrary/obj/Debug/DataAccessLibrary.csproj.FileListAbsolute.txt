@@ -1,0 +1,9 @@
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\obj\Debug\DataAccessLibrary.csprojAssemblyReference.cache
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\bin\Debug\DataAccessLibrary.dll
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\bin\Debug\DataAccessLibrary.pdb
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\bin\Debug\Dapper.dll
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\bin\Debug\Dapper.xml
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\obj\Debug\DataAccessLibrary.csproj.CopyComplete
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\obj\Debug\DataAccessLibrary.dll
+C:\Users\dntjn\source\repos\HireDanteJones\DataAccessLibrary\obj\Debug\DataAccessLibrary.pdb

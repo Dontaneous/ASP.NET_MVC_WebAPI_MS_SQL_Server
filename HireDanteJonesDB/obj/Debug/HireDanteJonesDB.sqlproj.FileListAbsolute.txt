@@ -1,0 +1,10 @@
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\bin\Debug\HireDanteJonesDB.dacpac
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\bin\Debug\HireDanteJonesDB.dll
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\bin\Debug\HireDanteJonesDB.pdb
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\HireDanteJonesDB.sqlprojAssemblyReference.cache
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\Model.xml
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\refactor.xml
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\postdeploy.sql
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\predeploy.sql
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\HireDanteJonesDB.dll
+C:\Users\dntjn\source\repos\HireDanteJones\HireDanteJonesDB\obj\Debug\HireDanteJonesDB.pdb
